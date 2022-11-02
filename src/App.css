@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  margin: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  list-style: none;
+}
+
+.active {
+  color: rgb(1, 123, 123);
+}
